@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Healthcare Handbook</title>
-    <link>http://example.org/docs/</link>
+    <link>https://open-health-org.github.io/docs/</link>
     <description>Recent content in Docs on Healthcare Handbook</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/docs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://open-health-org.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terminology</title>
-      <link>http://example.org/docs/terminology/</link>
+      <link>https://open-health-org.github.io/docs/terminology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/terminology/</guid>
+      <guid>https://open-health-org.github.io/docs/terminology/</guid>
       <description>This is a page to describe terminology #  Nursing home vs assisted living facility vs etc&amp;hellip;
 This is a subheading #  Hello!
 This is another subheading #  The navigator on the right automatically appears!
@@ -20,10 +20,10 @@ This is an even smaller heading #  </description>
     
     <item>
       <title>About</title>
-      <link>http://example.org/docs/about/</link>
+      <link>https://open-health-org.github.io/docs/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/about/</guid>
+      <guid>https://open-health-org.github.io/docs/about/</guid>
       <description>About Us #  Blah blah</description>
     </item>
     
